@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspMvcProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AspMvcProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\font-awesome\\font-awesome_6.4.0_css_all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\font-awesome_6.4.0_css_all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AspMvcProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AspMvcProject.props",
+      "PackagePath": "build\\AspMvcProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AspMvcProject.props",
+      "PackagePath": "buildMultiTargeting\\AspMvcProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AspMvcProject.props",
+      "PackagePath": "buildTransitive\\AspMvcProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
