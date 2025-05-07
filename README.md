@@ -31,10 +31,6 @@ Este é um projeto de exemplo utilizando o framework ASP.NET MVC, desenvolvido p
 
    - Pressione **F5** ou clique em **Start** para iniciar a aplicação.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
 
 > Desenvolvido por [LuannSP](https://github.com/LuannSP)
