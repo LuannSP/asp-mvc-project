@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\AspMvcProject\\src\\AppMvcFuncional\\AspMvcProject.csproj": {}
+    "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\AspMvcProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\AspMvcProject\\src\\AppMvcFuncional\\AspMvcProject.csproj": {
+    "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\AspMvcProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\AspMvcProject\\src\\AppMvcFuncional\\AspMvcProject.csproj",
+        "projectUniqueName": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\AspMvcProject.csproj",
         "projectName": "AspMvcProject",
-        "projectPath": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\AspMvcProject\\src\\AppMvcFuncional\\AspMvcProject.csproj",
+        "projectPath": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\AspMvcProject.csproj",
         "packagesPath": "C:\\Users\\luann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\AspMvcProject\\src\\AppMvcFuncional\\obj\\",
+        "outputPath": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luann\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "u0pIsmVJBnTUjR3PaB5+WTCa+xps8DiRyoO3/er05pY=",
+  "Hash": "hQXI2PlYbtDExIgSOqTm1fH5meFQIKQIBsg54MBserM=",
   "Source": "AspMvcProject",
   "BasePath": "_content/AspMvcProject",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "AspMvcProject\\wwwroot",
       "Source": "AspMvcProject",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\luann\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\7.0.8\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AspMvcProject.styles.css",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AspMvcProject.styles.css",
       "SourceId": "AspMvcProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "AspMvcProject.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AspMvcProject.styles.css"
+      "OriginalItemSpec": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\obj\\Debug\\net7.0\\scopedcss\\bundle\\AspMvcProject.styles.css"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspMvcProject.bundle.scp.css",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspMvcProject.bundle.scp.css",
       "SourceId": "AspMvcProject",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "AspMvcProject.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspMvcProject.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspMvcProject.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\css\\site.css",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\favicon.ico",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\js\\site.js",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\font-awesome\\font-awesome_6.4.0_css_all.min.css",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\font-awesome\\font-awesome_6.4.0_css_all.min.css",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/font-awesome/font-awesome_6.4.0_css_all.min.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\font-awesome_6.4.0_css_all.min.css"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\webfonts\\fa-brands-400.ttf",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\webfonts\\fa-brands-400.woff2",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\webfonts\\fa-regular-400.ttf",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\webfonts\\fa-regular-400.woff2",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\webfonts\\fa-solid-900.ttf",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\webfonts\\fa-solid-900.woff2",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\lib\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\lib\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "AspMvcProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\luann\\Downloads\\08 - Desenvolvendo uma aplicação funcional\\Aula 09 - Exibindo dados conforme usuário\\MinhaAppFuncional\\src\\AppMvcFuncional\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\luann\\Downloads\\asp-mvc-project-master\\src\\AspMvcProject\\wwwroot\\",
       "BasePath": "_content/AspMvcProject",
       "RelativePath": "lib/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
