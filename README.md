@@ -1,6 +1,6 @@
 # ASP.NET MVC Project
 
-Este é um projeto de exemplo utilizando o framework ASP.NET MVC, desenvolvido por [LuannSP](https://github.com/LuannSP). O objetivo deste projeto é demonstrar a estrutura básica de uma aplicação web utilizando o padrão Model-View-Controller (MVC) da Microsoft.
+Este é um projeto de exemplo utilizando o framework ASP.NET MVC, O objetivo deste projeto é demonstrar a estrutura básica de uma aplicação web utilizando o padrão Model-View-Controller (MVC) da Microsoft.
 
 - **Controllers/**: Contém os controladores que gerenciam a lógica de entrada e interação com os modelos.
 - **Models/**: Contém as classes que representam os dados da aplicação.
