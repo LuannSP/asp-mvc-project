@@ -73,3 +73,12 @@ _ReSharper*/
 
 # Publish profiles
 **/Properties/PublishProfiles/
+
+# Asp
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vs/
