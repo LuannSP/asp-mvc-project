@@ -1,4 +1,4 @@
-# ASP.NET MVC Projeto
+# ASP.NET MVC
 
 Este é um projeto de exemplo utilizando o framework ASP.NET MVC, O objetivo deste projeto é demonstrar a estrutura básica de uma aplicação web utilizando o padrão Model-View-Controller (MVC) da Microsoft.
 
